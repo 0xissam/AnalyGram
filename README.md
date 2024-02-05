@@ -1,5 +1,7 @@
 # AnalyGram - Instagram Analytics Web App
-![Extension Logo](https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png =50x50)
+
+<img src="https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png" alt="drawing" width="50"/>
+<!-- ![Extension Logo](https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png) -->
 ## Overview
 
 AnalyGram is a powerful web application designed to provide comprehensive analytics and insights for Instagram accounts. Whether you are an individual user, influencer, or business, AnalyGram empowers you to track and analyze your Instagram performance, understand audience engagement, and make informed decisions to enhance your online presence.
