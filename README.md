@@ -40,7 +40,7 @@ AnalyGram is a powerful web application designed to provide comprehensive analyt
 
 ### Installation
 
-1. Visit the AnalyGram website at [www.analygram.com](https://www.analygram.com).
+1. Visit the AnalyGram website at [www.analygram.com](https://analygram-6d0a5.web.app/).
 2. Create an account or log in with your existing credentials.
 3. Connect your Instagram account securely.
 
