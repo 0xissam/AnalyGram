@@ -55,7 +55,7 @@ AnalyGram is a powerful web application designed to provide comprehensive analyt
 
 ## Support and Feedback
 
-For any issues, questions, or feedback, please contact our support team at [support@analygram.com](mailto:support@analygram.com). We appreciate your input as we strive to continually improve AnalyGram.
+For any issues, questions, or feedback, please contact our support team at [support@analygram.com](mailto:support@analygram.com){:target="_blank"}. We appreciate your input as we strive to continually improve AnalyGram.
 
 ## License
 
