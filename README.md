@@ -1,6 +1,6 @@
 # AnalyGram - Instagram Analytics Web App
 
-<img src="https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png" alt="drawing" width="50"/>
+<img src="https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png" alt="drawing" width="100"/>
 <!-- ![Extension Logo](https://github.com/0xissam/AnalyGram/blob/main/public/rlogo-modified.png) -->
 ## Overview
 
