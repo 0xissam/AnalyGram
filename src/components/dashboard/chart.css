@@ -1,0 +1,11 @@
+/* Add these styles to your main stylesheet or create a new stylesheet */
+
+.custom-profile-history-chart {
+    border: 2px solid #3498db; /* Add a border with a different color */
+    border-radius: 12px; /* Add border-radius for rounded corners */
+    margin: 20px 0; /* Add margin for spacing */
+    padding: 20px; /* Add padding for content spacing */
+    background-color: #f0f8ff; /* Set a light blue background color */
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.2); /* Add a box shadow for a subtle lift with a different color */
+  }
+  

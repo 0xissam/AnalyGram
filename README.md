@@ -15,7 +15,7 @@ AnalyGram is a powerful web application designed to provide comprehensive analyt
 
 ### 2. **Audience Insights**
 
-   - **Demographics:** Understand the demographics of your followers, including age, gender, location, and more.
+   <!-- - **Demographics:** Understand the demographics of your followers, including age, gender, location, and more. -->
    - **Follower Growth:** Track the growth of your follower count over time.
 
 ### 3. **Content Analysis**
@@ -44,13 +44,12 @@ AnalyGram is a powerful web application designed to provide comprehensive analyt
 
 1. Visit the AnalyGram website at [www.analygram.com](https://analygram-6d0a5.web.app/).
 2. Create an account or log in with your existing credentials.
-3. Connect your Instagram account securely.
 
 ## Usage
 
 1. **Dashboard:** Explore the overview of your Instagram account's performance.
 2. **Audience:** Dive into audience demographics and growth trends.
-3. **Content:** Analyze your posts, hashtags, and engagement metrics.
+3. **Content:** Analyze your posts, and engagement metrics.
 4. **Competitors:** Benchmark your performance against competitors.
 
 ## Support and Feedback
